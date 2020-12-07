@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="026b7537-41e9-4d91-b202-3acf21f1aff9" name="Default Changelist" comment="">
+    <list default="true" id="026b7537-41e9-4d91-b202-3acf21f1aff9" name="Default Changelist" comment="Updated, HTML,CSS &amp; JS">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman.css" beforeDir="false" afterPath="$PROJECT_DIR$/hangman.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hangman.js" beforeDir="false" afterPath="$PROJECT_DIR$/hangman.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -45,11 +46,23 @@
       <option name="presentableId" value="Default" />
       <updated>1607135015205</updated>
       <workItem from="1607135016288" duration="1185000" />
-      <workItem from="1607225505875" duration="2400000" />
+      <workItem from="1607225505875" duration="3734000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated, HTML,CSS &amp; JS">
+      <created>1607316671977</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607316671977</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated, HTML,CSS &amp; JS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated, HTML,CSS &amp; JS" />
   </component>
 </project>
