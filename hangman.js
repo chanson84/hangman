@@ -2,7 +2,7 @@ $(document).ready(
     function () {
 
 //add word array
-var randomWordArray = ("cat","dog","water","fish","carpenter");
+var randomWordArray = ("cat","dog","water","fish","carpenter","plumber","designer","gardener","earth","bird","car","train");
 
 //choose random word
 var randomWord = randomWordArray(Math.floor(Math.random));
