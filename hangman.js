@@ -24,6 +24,10 @@ var answerArray = [];
     function Letter(){
         var letter = document.getElementById("letter").value;
         if (letter.length > 0) {
-
+            for (var a = 0; a < randomWord.length; a++){
+                if (randomWord[a] === letter){
+                    answerArray[a] = letter;
+                }
+            }
         }
     }
