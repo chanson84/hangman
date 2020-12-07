@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link href="hangman.css">
+    <link rel="stylesheet" type="text/css" href="hangman.css">
     <title>Hangman</title>
 </head>
 <body>
@@ -11,7 +11,7 @@
     <h2>Choose a Letter</h2>
     <div class="mistakesMade">
 <input id="letter" type="text">
-        <input type="button" value="letter" onclick="Letter">
+        <input id="button" type="button" value="Letter" onclick="Letter">
         <p id="answer"></p>
         <p id="counter"></p>
         <p id="wrong"></p>

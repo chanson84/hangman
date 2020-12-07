@@ -1,4 +1,12 @@
-h1 {
-    text-align: center;
+body{
+    background: cornsilk;
 }
-.mistakesMade { float: right;}
+h1, h2{
+    text-align: center;
+    color: midnightblue;
+}
+#letter, #answer, #counter, #wrong {text-align: center;
+    color: midnightblue;}
+#button {align-items: center;
+color: cornsilk;
+background-color: midnightblue;}
